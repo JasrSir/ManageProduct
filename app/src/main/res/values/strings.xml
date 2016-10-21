@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Manage Products (JasrSir)</string>
+    <string name="nombre_de_usuario">nombre de usuario</string>
+    <string name="password">Password</string>
+    <string name="ckbRemember">Recordar</string>
+    <string name="messageUser">Introduzca el Usuario</string>
+    <string name="messageName">Nombre del medicamento</string>
+    <string name="messageDesc">Introduce una descripción</string>
+    <string name="messageBrand">Marca del producto</string>
+    <string name="messagePrice">Precio del producto</string>
+    <string name="messagePass">Introduzca la contraseña</string>
+    <string name="Login" translatable="false">Login</string>
+    <string name="messageStock">Stock</string>
+    <string name="txvSeePrice">TextView</string>
+    <string name="txvSeeName">TextView</string>
+    <string name="txvSeeStock">stock</string>
+</resources>
